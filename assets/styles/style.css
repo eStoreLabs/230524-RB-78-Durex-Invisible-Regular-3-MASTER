@@ -397,6 +397,21 @@ section {
   text-transform: uppercase;
   font-size: clamp(1.375rem, 0.9583rem + 1.8519vw, 2.625rem);
 }
+#es-durex.es-durex .es-slider .es-slide__text-container--3 {
+  position: relative;
+}
+#es-durex.es-durex .es-slider .es-slide__text-container--3:before {
+  content: "";
+  background-image: url("/assets/img/badge.png");
+  background-size: cover;
+  background-position: center;
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  top: -99%;
+  right: -39%;
+  transform: translate(-50%, -50%);
+}
 #es-durex.es-durex .es-slider .es-slide__text {
   font-family: "One Night Sans Medium", sans-serif;
   text-transform: uppercase;
@@ -450,6 +465,12 @@ section {
 
   #es-durex.es-durex .es-slider .es-slide__container {
     padding-inline: 0rem 4rem;
+  }
+  #es-durex.es-durex .es-slider .es-slide__text-container--3:before {
+    height: 100px;
+    width: 100px;
+    top: -45%;
+    right: -14%;
   }
 }
 

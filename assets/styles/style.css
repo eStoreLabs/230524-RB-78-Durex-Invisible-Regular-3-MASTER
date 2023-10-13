@@ -757,6 +757,7 @@ section {
   rotate: 90deg;
   width: 32px;
   height: 32px;
+  z-index: 1;
 }
 #es-durex.es-durex .es-tip__container {
   display: flex;

@@ -1,10 +1,10 @@
 # Live (master)
-https://deft-licorice-fe5eb3.netlify.app/
+https://gentle-lollipop-7012db.netlify.app/
 
 # Design
-[link](https://drive.google.com/drive/folders/1kpR9wR2C_fIbSBJFGdoXgAT9g_3PsOyc)
+[link](https://drive.google.com/drive/folders/1q2CFXTNXL_uhUCIutQBPM_lCWsb0yIBw)
 
-![image](https://github.com/eStoreLabs/230524-RB-78-Durex-Invisible-Lubricated-3-MASTER/assets/130984276/3f6d8b3d-f906-42b4-83a8-854b40f78470)
+![image](https://github.com/eStoreLabs/230524-RB-78-Durex-Invisible-Regular-MASTER/assets/130984276/de901a9f-0e6f-4b39-90c2-e3556e930a12)
 
 ![image](https://github.com/eStoreLabs/230524-RB-78-Durex-Invisible-Regular-MASTER/assets/130984276/1ff8cf6e-a68a-4a40-9677-a02ca186dbac)
 
